@@ -35,7 +35,7 @@
 
         py_symbols {
             bindings = <&mo 4>;
-            key-positions = <30 29>;
+            key-positions = <32 31>;
         };
     };
 
